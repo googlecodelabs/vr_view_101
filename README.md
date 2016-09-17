@@ -8,7 +8,7 @@ Please see https://codelabs.developers.google.com/ for the codelab text.
 Support
 -------
  If you've found an error in this sample, please file an issue:
-https://github.com/googlecodelabs/vrview-html/issues
+https://github.com/googlecodelabs/vr_view_101/issues
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub.
